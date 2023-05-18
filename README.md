@@ -50,8 +50,5 @@
 主办方建立技术讨论群（微信群），供选手讨论、沟通，主办方也将安排工作人员定期在群内答疑，且后续的相关活动信息均会在群内发布。
 
 
-# github地址：https://github.com/daixiang518/npl-202305
-# 如遇数据集下载不了或者下载缓慢问题，请使用百度网盘下载：链接：https://pan.baidu.com/s/1wEtslAw2z4HDSGwkpnJQ7g  提取码：2023
-
 
 
