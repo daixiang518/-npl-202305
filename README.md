@@ -39,8 +39,8 @@
 发起单位：青海师范大学、中央民族大学
 指导单位：中国中文信息学会自然语言生成与智能写作专业委员会（筹）
  	 	 
-#github地址：https://github.com/daixiang518/npl-202305
-#如遇数据集下载不了或者下载缓慢问题，请使用百度网盘下载：链接：https://pan.baidu.com/s/1wEtslAw2z4HDSGwkpnJQ7g  提取码：2023
+# github地址：https://github.com/daixiang518/npl-202305
+# 如遇数据集下载不了或者下载缓慢问题，请使用百度网盘下载：链接：https://pan.baidu.com/s/1wEtslAw2z4HDSGwkpnJQ7g  提取码：2023
 李琳，青海师范大学
 赵小兵，中央民族大学
 联系方式：meetingqhnu@sohu.com
