@@ -26,7 +26,6 @@
 <P class=MsoNormal><SPAN lang=EN-US style='FONT-SIZE: 10pt; FONT-FAMILY: "Times New Roman",serif'><o:p>&nbsp;</o:p></SPAN></P></TD>
 <TD style="BORDER-TOP: medium none; HEIGHT: 20pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 61.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: medium none; PADDING-RIGHT: 5.4pt; mso-border-left-alt: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext 1.0pt" width="61%">
 <P class=MsoNormal><SPAN lang=BO style='FONT-SIZE: 12pt; FONT-FAMILY: "Microsoft Himalaya"; mso-ansi-font-size: 10.5pt; mso-bidi-language: BO'>སློབ་ཁྲིད་ཡག་པོ་བྱས་ཏེ་ཤེས་ལྡན་མི་སྣ་གང་མང་ཞིག་གསོ་སྐྱོང་བྱ་རྒྱུ་ནི་དགེ་བའི་བཤེས་གཉེན་ཚོའི་འགན་འཁྲི་དོར་མེད་ཅིག་ཡིན་ལ།ལས་འགན་དེ་སྒྲུབ་པའི་བརྒྱུད་རིམ་ནང་སློབ་སྦྱོང་བྱེད་འདོད་ཀྱི་སྤྲོ་བ་སྐྱེད་བསྲིང་བྱེད་རྒྱུ་ནི་ལས་འགན་དེ་ལེགས་འགྲུབ་ཡོང་བའི་སྔོན་འགྲོའི་ཆ་རྐྱེན་ཞིག་ཀྱང་རེད།གལ་སྲིད་སྦྱངས་བྱའི་ཡོན་ཏན་ལ་སྤྲོ་བ་སྐྱེད་གྱུར་ན་རིག་ཚན་གང་ཞིག་སྦྱངས་རུང་ཚེགས་མེད་དུ་ཤེས་ཐུབ་ཅིང་དེ་ཡང་རང་ཉིད་ཀྱི་ལོ་འགའི་སློབ་ཁྲིད་ཀྱི་ཉམས་མྱོང་ལས་ཤེས་གསལ་རེད།དེང་སྐབས་སློབ་མ་ཁག་ཅིག་བོད་སྐད་ཡིག་སྦྱོང་འདོད་ཀྱི་སྤྲོ་བ་དེ་ཙམ་ཆེན་པོ་མེད་ལ་ཧུར་བརྩོན་རང་བཞིན་ཡང་ཆེན་པོ་མེད་པར་བརྟེན་སློབ་སྦྱོང་གི་སྦྱངས་འབྲས་ཀྱང་ཚད་ངེས་ཅན་ཞིག་དང་བློ་ཡིད་འཚིམ་པ་ཞིག་ཐོབ་ཀྱི་མེད།</SPAN></P></TD></TR></TBODY></TABLE>
-<br>
 4. 评价指标
 本任务采用ROUGE-1，ROUGE-2和ROUGE-L作为评价指标衡量生成标题和标准答案之间的相似性。
 <br>
